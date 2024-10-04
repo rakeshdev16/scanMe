@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919972570471",
+    "project_id": "scan-me-plus",
+    "storage_bucket": "scan-me-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919972570471:android:77dfdb45d04107f7893bc2",
+        "android_client_info": {
+          "package_name": "com.app.scan_me_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_jsz-HJL9PHWDtYMb3jdkp_KnRg9XoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
